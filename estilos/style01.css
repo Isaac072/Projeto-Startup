@@ -32,7 +32,7 @@ ul {
 li {
     color: white;
     list-style-type: none;
-    padding-left: 3rem;
+    padding-left: 3vw;
     font-size: large;
     transition: 1s;
 }
@@ -86,7 +86,7 @@ li:hover {
 div.login > a {
     display: flex;
     color: white;
-    margin: 20px 20px 20px 20px ;
+    margin: 20px 20px 20px 20px;
 }
 
 
